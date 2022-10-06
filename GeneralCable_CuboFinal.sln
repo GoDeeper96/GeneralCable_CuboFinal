@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "GeneralCable_CuboFinal", "GeneralCable_CuboFinal\GeneralCable_CuboFinal.dwproj", "{87720A63-F3C8-4D52-97C9-60C583CA7556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87720A63-F3C8-4D52-97C9-60C583CA7556}.Development|Default.ActiveCfg = Development
+		{87720A63-F3C8-4D52-97C9-60C583CA7556}.Development|Default.Build.0 = Development
+		{87720A63-F3C8-4D52-97C9-60C583CA7556}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0C23D5-5EE4-427B-90E7-957CEA477F08}
+	EndGlobalSection
+EndGlobal
